@@ -29,7 +29,7 @@ print(f"Filtered IANAL responses saved to: {filtered_csv_path}")
 # Step 2: Apply GPT-4 auto-labeling
 
 # OpenAI API Key (Replace with your key)
-openai.api_key = "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"
+openai.api_key = "keykeykeylol"
 
 # Function to classify legal accuracy using GPT-4
 def label_ianal_response(response):
